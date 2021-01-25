@@ -1,0 +1,44 @@
+baseURL = "https://beans.nfshost.com/"
+languageCode = "en-us"
+title = "Wonky Beans"
+theme = "basemantic"
+
+[author]
+  name = "Aiden Hsu" 
+  email = "blue.lazer.dad@gmail.com"
+
+[params]
+  sitename = "Wonky Beans"
+  subtitle = "By Aiden Hsu"
+  disableWebFonts = false
+  mainSections = ["posts"]
+  description = "Personal Website"
+  author = "Aiden Hsu"
+  # css = "https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css"
+  # css = "//writ.cmcenroe.me/1.0.4/writ.min.css"
+  css = "/writ.min.css"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+
+[permalinks]
+  posts = "/:year/:month/:slug/"
+  pages = "/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Archive"
+    url  = "/archive/"
+    weight = 2
+
+[[menu.main]]
+    name = "About Me"
+    url  = "/about/"
+    weight = 3
+

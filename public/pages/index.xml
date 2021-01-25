@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Wonky Beans</title>
+    <link>https://beans.nfshost.com/pages/</link>
+    <description>Recent content in Pages on Wonky Beans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>blue.lazer.dad@gmail.com (Aiden Hsu)</managingEditor>
+    <webMaster>blue.lazer.dad@gmail.com (Aiden Hsu)</webMaster>
+    
+	<atom:link href="https://beans.nfshost.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
