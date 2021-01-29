@@ -1,6 +1,6 @@
 ---
 title: "This is a dup test"
-slug: "test1"
+slug: "test2"
 date: "2020-10-01"
 ---
 
