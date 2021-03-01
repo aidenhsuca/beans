@@ -1,0 +1,20 @@
+---
+title: "Elijah McCoy"
+slug: "elijah-mccoy"
+date: "2021-02-28"
+---
+
+Elijah McCoy was born on May 2, 1844, in Colchester, Ontario, Canada. His parents were George and Mildred McCoy. The McCoy family at the moment were fugitive slaves who escaped Kentucky and made it to Canada via the Underground Railroad. His parents had initially arrived in Colchester in 1873 from Detroit. Ten out of eleven of McCoy's siblings were born in Canada between 1839 and 1859. Based on land deeds of sale, tax assessment rolls, and a USA census, the facts can determine that the McCoy family moved to Ypsilanti, Michigan, in 1859-60.
+
+Elijah got his education in the black schools of Colchester Township back when racial segregation was still active. When McCoy was 15, he was sent to Edinburgh, Scotland, for an apprenticeship and study in 1859.
+After a few years there, he was certified as a mechanical engineer. By the time he returned, the McCoy had established themselves on John and Maryann Starkweather's farm in Ypsilanti. George used his skills as a tobacconist to create a tobacco and cigar business.
+
+When Elijah arrived in Michigan, he could only get hired as a fireman or an oiler (someone hired to oil or lubricate machinery) at the Michigan Central Railroad. In a domestic machine shop in Ypsilanti, McCoy did more highly skilled projects, such as developing improvements and inventions. He eventually arrived at the idea for an automatic lubricator that lubricates the steam engines in trains and ships, which he patented in 1872 as "Improvement in Lubricators for Steam-Engines." 
+
+Similar automatic oilers had been patented previously, such as the displacement lubricator, which had already been widely used. Its technological descendants continued to circulate into the 20th century. Lubricators were a miracle for railroads, as they enabled trains to run faster and more profitably, while cutting out the need for more frequent stops to lubricate and conduct maintenance. McCoy continued to refine his devices and design new ones. One of his patents dealt with lubricating systems. After the turn of the century, he got some fame among his black contemporaries. Booker T. Washington recognized him as having produced more patents than any other black inventor up until then. This creativity got McCoy and honoured status amongst the black community folks, which is still upheld to this day. He continued to invent for quite a bit of time until he obtained 57 patents. Most of them were lubrication patents, but others included a collapsible ironing board and a lawn sprinkler. Lacking the funds to manufacture lubricators in immense quantities, he usually gave his patent rights to his employers or sold them to investors. Lubricators stamped with the McCoy name were not manufactured until 1920, when Elijah founded the Elijah McCoy Manufacturing Company to produce the machinery.
+
+McCoy had initially been married to Ann Elizabeth Stewart in 1868, but she died four years later. He married again in 1873 to Mary Eleanor Delaney. The couple moved to Detroit when McCoy was hired there. Mary McCoy, who died in 1922, helped found the Phillis Wheatley Home for Aged Colored Men in 1898.
+
+Historians have not agreed on the importance of McCoy's contributions to the field of lubrication. He is credited in some biographical sketches with revolutionizing the railroad or machine industries with his patents. However, early twentieth-century lubrication literature sparsely mentions him. For example, in E. L. Ahrons' Lubrication of Locomotives (written in 1922), his name is absent even though the book identifies early pioneers and companies of the field.
+
+The term "The real McCoy" was coined to indicate the real thing. Still, a common misconception is that the phrase is attributed to Elijah McCoy's oil-drip cup invention. A theory for that is railroad engineers would ask for "The real McCoy" to avoid receiving a knockoff. They would also ask if a train has been outfitted with "the real McCoy system."
