@@ -1,6 +1,6 @@
 ---
 title: "Discord, the game changer"
-slug: "discord"
+slug: "discord-game-changer"
 date: "2021-03-28"
 ---
 Discord is something I can't live	without. Prior to having a Discord account, talking to friends online had some difficulties and hindrances. Then on one fateful day, I asked my dad if I could sign up for Discord and download it on the computer so I could play Roblox with someone. He said yes. So, I went to the then named "discordapp.com" website for Discord, which is now simply "discord.com". I signed up with the name BlueLazerDad, which I still keep to this day. 
