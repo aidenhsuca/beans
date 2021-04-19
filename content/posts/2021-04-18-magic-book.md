@@ -1,5 +1,5 @@
 ---
-title: "Magic Book Store"
+title: "Magic Book Store Adventures"
 slug: "magic-book"
 date: "2021-04-18"
 ---
