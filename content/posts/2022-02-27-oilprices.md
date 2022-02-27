@@ -14,5 +14,7 @@ Canada meanwhile stated on Thursday that they would put more sanctions on Russia
 
 Sources: 
  - https://www.thestar.com/business/2022/02/24/canadians-can-expect-higher-gas-prices-from-ukraine-war-to-kick-in-on-saturday.html
+ 
  - https://globalnews.ca/news/8643675/canada-gas-prices-russia-ukraine/
+ 
  - https://toronto.ctvnews.ca/this-is-how-much-gas-prices-will-go-up-in-ontario-this-weekend-1.5794280
