@@ -15,6 +15,7 @@ Because there were lots of things to see, my dad booked a guided tour for us, an
 The food in New York was exquisite. We mostly ate from street food vendors and restaurants. One time we had instant noodles in our hotel room. However, most of the trip consisted of pizza, burgers, sandwiches, etc. 
 
 We ate a lot of different foods, but my favourite was pizza. I only remember one pizza I ate that was good. It was from a little pizza shop next to a subway station that we used called Union Street Pizza, aptly named after the subway station it was at, Union Street station.  
+
 An honourable mention is Shake Shack because I liked their burgers and shakes, even if I got a little sick of the shake. 
 
 ### American Museum of Natural History   
